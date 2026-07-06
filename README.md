@@ -1,20 +1,6 @@
 # 🌱 CropAI - Intelligent Crop Recommendation Platform
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success?style=for-the-badge&logo=vercel)](https://smart-crop-advisor.vercel.app/)
-[![GitHub License](https://img.shields.io/github/license/johishkumar/Smart-Crop-Advisory-System-for-Small-and-Marginal-Farmers?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/johishkumar/Smart-Crop-Advisory-System-for-Small-and-Marginal-Farmers?style=for-the-badge)](https://github.com/johishkumar/Smart-Crop-Advisory-System-for-Small-and-Marginal-Farmers/stargazers)
-
 A comprehensive full-stack web application for intelligent crop recommendation using machine learning, AI-powered image analysis, and market intelligence. Built for the SIH (Smart India Hackathon) with modern technologies and a beautiful UI inspired by smartfarm.ch.
-
-## 🔗 Live Demo
-You can access the live demo of the application here:
-👉 **[CropAI Live Demo](https://smart-crop-advisor.vercel.app/)**
-
-> [!NOTE]
-> The backend services (AI models & prediction API) are hosted on Railway, and the React frontend client is deployed on Vercel.
-
-## ✨ Features
-
 
 ### 🤖 AI-Powered Crop Prediction
 - **Machine Learning Integration**: Uses trained ML models for accurate crop recommendations
